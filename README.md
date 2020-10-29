@@ -1,1 +1,1 @@
-# Supply-Mission-1-C-22
+# SupplyMission
